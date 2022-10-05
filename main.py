@@ -42,7 +42,7 @@ def wallpaper_search_api(query, page_id):
 
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 if len(sys.argv) < 2:
-    print("Usage waldl.py <search_query>")
+    print("Usage main.py <search_query>")
     quit()
 
 query = sys.argv[1].replace(' ', '+')
