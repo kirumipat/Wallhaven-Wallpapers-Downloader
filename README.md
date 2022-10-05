@@ -3,13 +3,11 @@
 
 ## Tags for running the script
 
+[Tags - wallhaven.cc](https://wallhaven.cc/tags/popular)
 ```bash
 pathon3 main.py "Tags"
 ```
 
-<mark>TAGS</mark>
-
-[Tags - wallhaven.cc](https://wallhaven.cc/tags/popular)
 
 By default, images are downloaded only with an aspect ratio of 16/9
 
